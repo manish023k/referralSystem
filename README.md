@@ -12,7 +12,7 @@ In this task we have used `NodeJS(22.8.0)` with `Express` framework to create AP
 `AWS_ACCESS_KEY_ID`: AWS access key id to access `aws-sdk` in our code.
 `SECRET_ACCESS_KEY`: AWS secret access key to access `aws-sdk` in our code.
 `SERVER_PORT`: Server port on which node server will run. Default is `3000`
-`DB_NAME`: This variable denotes to database name. Default is `practical_task`
+`DB_NAME`: This variable denotes to database name. Default is `referral_system`
 `S3_BUCKET_NAME`: This variable denotes to s3 bucket name on which we will upload our images.
 `CLOUD_FRONT_URL`: This is the URL of cloud-front distribution to which we have binded our s3 bucket so that our bucket's content will not be publicly available and it is available through cloud front.
 
