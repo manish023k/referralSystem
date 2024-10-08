@@ -1,0 +1,18 @@
+module.exports = {
+  SERVER_IS_WORKING_FINE: 'Server is working fine',
+  MOBILE_ALREADY_EXISTS: 'Mobile number already exists! Try with other mobile number',
+  USER_REGISTERED_SUCCESSFULLY: 'User registered successfully',
+  MOBILE_NOT_REGISTERED: 'This mobile number is not registered with system',
+  LOGGED_IN_SUCCESSFULLY: 'User logged in successfully',
+  INVALID_PASSWORD: 'Invalid password',
+  ENTERED_OLD_PASSWORD_IS_INCORRECT: 'Entered old password is incorrect',
+  USER_UPDATED_SUCCESSFULLY: 'User profile updated successfully',
+  OLD_PASSWORD_OR_NEW_PASSWORD_CANNOT_BE_SAME: 'Both passwords cannot be same',
+  SESSION_EXPIRED: 'Session expired!',
+  FILE_REQUIRED_IN_PAYLOAD: 'File required in payload',
+  USER_LIST_FETCHED_SUCCESSFULLY: 'Users list fetched successfully',
+  NOT_FOUND: 'Data not found',
+  FILE_UPLOADED_SUCCESSFULLY: 'File uploaded successfully',
+  MOBILE_CANNOT_BE_SAME_AS_PREVIOUS_MOBILE: 'Mobile number cannot be same as previous mobile number',
+  USER_DELETED_SUCCESSFULLY: 'User deleted successfully',
+};
